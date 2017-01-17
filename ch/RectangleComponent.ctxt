@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RectangleComponent()
+comment1.params=x\ y\ w\ h
+comment1.target=RectangleComponent(int,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=hi\ time
+comment3.target=void\ nextFrame(java.awt.Graphics,\ int)
+numComments=4

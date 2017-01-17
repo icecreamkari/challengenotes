@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=xpos\ ypos\ diameter
+comment0.target=CircleComponent(int,\ int,\ int)
+comment0.text=\r\n\ Circle\ constructor\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ draws\ a\ circle\r\n
+comment2.params=hi\ time
+comment2.target=void\ nextFrame(java.awt.Graphics,\ int)
+comment2.text=\r\n\ creates\ another\ frame\r\n
+numComments=3
