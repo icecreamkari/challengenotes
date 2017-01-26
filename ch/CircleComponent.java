@@ -31,7 +31,6 @@ public class CircleComponent extends JComponent
     }
     
         
-   
     /**
     * draws a circle
     */
